@@ -1,3 +1,14 @@
+Laura Dern 2020
+Renee Zellweger 2019
+Olivia Colman 2018
+Frances McDormand 2017
+Emma Stone 2016
+Brie Larson 2015
+Julianne Moore 2014
+Cate Blanchett 2013
+Jennifer Lawrence 2012
+Meryl Streep 2011
+Natalie Portman 2010
 ['Hillary Swank', 1999]
 ['Julia Roberts', 2000]
 ['Halle Berry', 2001]
